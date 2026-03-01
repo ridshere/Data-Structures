@@ -1,7 +1,7 @@
-# Data-Structures
-codes for basic operations in data structures
+//Data-Structures
+//codes for basic operations in data structures
 // matrix addition and deletion
-include <stdio.h>
+#include <stdio.h>
 
 int main() {
     int rows, col, i, j, n;
